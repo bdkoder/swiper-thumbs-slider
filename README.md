@@ -1,0 +1,1 @@
+# swiper-thumbs-slider
